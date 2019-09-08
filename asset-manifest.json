@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Interface-Pipefy/static/js/main.5d90072d.chunk.js",
+    "main.js.map": "/Interface-Pipefy/static/js/main.5d90072d.chunk.js.map",
+    "runtime~main.js": "/Interface-Pipefy/static/js/runtime~main.3debb867.js",
+    "runtime~main.js.map": "/Interface-Pipefy/static/js/runtime~main.3debb867.js.map",
+    "static/js/2.73b5f73d.chunk.js": "/Interface-Pipefy/static/js/2.73b5f73d.chunk.js",
+    "static/js/2.73b5f73d.chunk.js.map": "/Interface-Pipefy/static/js/2.73b5f73d.chunk.js.map",
+    "index.html": "/Interface-Pipefy/index.html",
+    "precache-manifest.4120fcd0ed20b6cabbe14bd56a1cbd4a.js": "/Interface-Pipefy/precache-manifest.4120fcd0ed20b6cabbe14bd56a1cbd4a.js",
+    "service-worker.js": "/Interface-Pipefy/service-worker.js"
+  }
+}
